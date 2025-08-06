@@ -1,2 +1,4 @@
 # Task-2--Elevate-Labs-
 Exploratory Data Analysis (EDA)
+This project performs a comprehensive Exploratory Data Analysis (EDA) on the Titanic dataset to uncover insights and support feature engineering for predictive modeling. Key steps include generating summary statistics (mean, median, standard deviation, etc.) to understand data distributions, and visualizing numerical features through histograms and boxplots to detect skewness, outliers, and distribution patterns. Relationships between features are explored using pair plots and a correlation matrix to reveal trends and potential multicollinearity. The analysis identifies patterns such as survival rates across different age groups, passenger classes, and genders. These insights help inform the development of machine learning models by highlighting meaningful feature interactions and potential anomalies in the dataset.
+
